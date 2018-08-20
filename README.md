@@ -37,6 +37,7 @@ npm run demo
 This game is a simplified version of WAR, instead of doing the war rules, same value cards are discarded
 
 ### JSDOC
+To see functions implemented for Deck, Card, Player and Pile Classes, please see JSDOC link below.
 [JSDOC link](https://chaoshi.github.io/deckofcards/module.exports.html)
 
 ## License
