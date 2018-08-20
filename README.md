@@ -15,6 +15,12 @@ npm 3.10.10 and up
 npm install
 ```
 
+## Running in a node session
+
+```
+npm start
+```
+
 ## Running test
 
 ```
@@ -29,6 +35,9 @@ To run a demo card game using the deck of cards modules
 npm run demo
 ```
 This game is a simplified version of WAR, instead of doing the war rules, same value cards are discarded
+
+### JSDOC
+[JSDOC link](https://chaoshi.github.io/deckofcards/module.exports.html)
 
 ## License
 
